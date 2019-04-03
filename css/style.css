@@ -39,7 +39,7 @@ header h2 {
 }
 
 footer p {
-	float: right;
+	text-align: right;
 }
 
 /*/////// LINKS & MEDIA //////*/
