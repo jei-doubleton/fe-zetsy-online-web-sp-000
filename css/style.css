@@ -33,7 +33,7 @@ header h1 {
 	border-bottom: 1px solid;
 }
 
-header h2 {
+class.wrapper header h2 {
   color: #6D7F7E;
 	font: 10em;
 }
