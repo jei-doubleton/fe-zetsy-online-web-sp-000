@@ -43,6 +43,9 @@ a {
 	text-decoration: none;
 }
 
+a.press	{
+	border: 5px solid #98ABA5; 
+}
 
 /*/////// MEDIA //////*/
 .img-frame {
