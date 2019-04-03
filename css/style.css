@@ -27,8 +27,8 @@ body {
 
 h1 {
   color: #9DABA6;
+	font-size: 13px;
 	/*font-family: 'Libre Baskerville', serif;*/
-	font-size: 40px;
 }
 
 h2 {
