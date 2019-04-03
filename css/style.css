@@ -47,6 +47,10 @@ a {
 	border: 5px solid lightgrey;
 }
 
+.press img:hover	{
+	border-color: #9DABA6;
+}
+
 /*/////// MEDIA //////*/
 .img-frame {
   border: 5px solid #9DABA6;
