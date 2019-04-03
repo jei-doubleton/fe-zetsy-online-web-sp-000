@@ -25,7 +25,7 @@ body {
 
 /*///// HEADERS //////*/
 
-body div.wrapper h1 {
+header h1 {
   color: #9DABA6;
 	margin: 0 0 5px;
 	font-size: 5em;
@@ -33,7 +33,7 @@ body div.wrapper h1 {
 	border-bottom: 1px solid;
 }
 
-h2 {
+header h2 {
   color: #6D7F7E;
 	font: 2.5em;
 }
