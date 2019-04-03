@@ -38,7 +38,7 @@ header h2 {
 	font-size: 2.5em;
 }
 
-/*/////// LINKS //////*/
+/*/////// LINKS & MEDIA //////*/
 a {
 	text-decoration: none;
 }
@@ -51,7 +51,6 @@ a {
 	border-color: #9DABA6;
 }
 
-/*/////// MEDIA //////*/
 .img-frame {
   border: 5px solid #9DABA6;
 }
